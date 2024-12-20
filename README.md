@@ -86,6 +86,12 @@ trainer = Trainer(
 trainer()
 ```
 
+## Updates
+
+For `Reflow` online learning with ema stabilization added - check out params `is_online` and `use_ema`.
+
+Also [FID](https://en.wikipedia.org/wiki/Fr%C3%A9chet_inception_distance) calculation functionality added.
+
 ## Citations
 
 ```bibtex
